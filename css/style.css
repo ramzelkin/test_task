@@ -1,0 +1,13 @@
+html {
+    overflow-x: hidden;
+    height: 100%;
+}
+body {
+	margin: 0;
+}
+.top {
+	width: 1440px;
+	height: 672px;
+	opacity: 100%;
+	background-color: rgb(2,39,66); 
+}
